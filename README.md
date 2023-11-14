@@ -1,4 +1,4 @@
-SpeedRush
+#SpeedRush
 SpeedRush Demo
 
 Description
@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/speedrush.git
+git clone https://github.com/Kalid-Geleta/Speedrush/
 Navigate to the project directory:
 
 bash
@@ -32,7 +32,7 @@ Install dependencies:
 bash
 Copy code
 npm install
-Start the development server.
+Start the development server:
 
 bash
 Copy code
@@ -41,14 +41,16 @@ Open your browser and visit http://localhost:3000 to play SpeedRush!
 
 Usage
 Use the arrow keys or WASD to control the player's movement.
-Navigate through the course, avoiding obstacles, and aim for the finish line.
-Challenge yourself to complete each level in the shortest amount of time possible.
+Navigate through the course, avoiding obstacles and aiming for the finish line.
+
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.
 
-License
-This project is licensed under the MIT License.
-
 Acknowledgments
 Special thanks to the creators of Three.js for providing an amazing 3D graphics library.
-Make sure to replace placeholders such as your username, link-to-demo-gif or screenshot.gif, link-to-live-demo, and others with your actual information. Additionally, customize the content based on the specific features and details of your game.
+
+
+
+
+
+
